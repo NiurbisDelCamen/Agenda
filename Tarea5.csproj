@@ -25,4 +25,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Page Include="C:\Users\USER\Desktop\Leng.Prog\Tarea5.xaml" Link="Tarea5.xaml" />
+  </ItemGroup>
+
 </Project>
